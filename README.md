@@ -1,4 +1,4 @@
-# img-classification-pista
+# CNN-img-classification-pista
 
 **By Sarah Benkoussa**
 
