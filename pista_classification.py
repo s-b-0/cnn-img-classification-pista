@@ -6,7 +6,7 @@
         "id": "nceZmYl2OupK"
       },
       "source": [
-        "# Final Mini-Project Info 3950\n",
+        "# CNN Image Classification Pistachio\n",
         "name: Sarah Benkoussa\n",
         "\n",
         "Using the pistachio images dataset found here: https://www.muratkoklu.com/datasets/\n",
